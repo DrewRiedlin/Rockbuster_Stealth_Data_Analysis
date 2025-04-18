@@ -20,4 +20,4 @@ and Amazon. They used to have stores around the world, but now Rockbuster plans 
 
 Rockbuster provided us with a robust dataset containing different tables that contain information about everything from payment, rental, 
 customer and staff to address, inventory, film_actor and and category.  Posrtges SQL and pgAdmin 4 were used to wrangle and analyze the data.
-Tableau was used for visualizations.  Please see [An Influenza Story on Tableau Public](https://public.tableau.com/app/profile/andrew.riedlin/viz/AnInfluenzaStory/AnInfluenzaStory?publish=yes) for the visualizations.
+Tableau was used for visualizations.  Please see [Rockbuster Stealth Online Video Launch](https://public.tableau.com/app/profile/andrew.riedlin/viz/RockbusterOnlineVideoLaunchAnalysisStory/RockbusterStealth) for the visualizations.
